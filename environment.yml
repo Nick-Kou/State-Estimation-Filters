@@ -1,0 +1,15 @@
+name: SE_Filters
+dependencies:
+- pip
+- python=3.8
+- pip
+- ipython
+- jupyter
+- matplotlib
+- scipy
+- sympy
+- math
+- numpy
+- pygame=2.0.0.dev6
+- pip:
+  - filterpy
