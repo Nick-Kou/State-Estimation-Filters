@@ -1,6 +1,7 @@
 # State-Estimation-Filters
 Examples of robotic state estimation filters for particular problems, their descriptions, and animations.
 ## Installation
+Tutorials and underlying theory are included in each folder.
 
 First refer to this [guide](https://docs.conda.io/en/latest/miniconda.html) to install conda or miniconda.
 
@@ -27,3 +28,5 @@ conda activate SE_Filters
 
 conda deactivate
 ```
+## Videos and Images
+Will be posted shortly..
