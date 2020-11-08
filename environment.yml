@@ -8,8 +8,8 @@ dependencies:
 - matplotlib
 - scipy
 - sympy
-- math
 - numpy
-- pygame=2.0.0.dev6
+
 - pip:
   - filterpy
+  - pygame==2.0.0.dev6
