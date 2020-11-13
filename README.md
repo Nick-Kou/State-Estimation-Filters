@@ -18,14 +18,14 @@ Create the environtment from the environment.yml file:
 ```bash
 conda env create -f environment.yml
 ```
-Enter jupyter notebook
-```bash
-jupyter notebook
-```
-Activate and Deactivate the lab:
+Activate the lab environment and enter jupyter notebook:
 ```bash
 conda activate SE_Filters
 
+jupyter notebook
+```
+Deactivate the lab:
+```bash
 conda deactivate
 ```
 ## Videos and Images
